@@ -1,0 +1,4 @@
+@import 'src/base/style/mixin';
+.text{
+    @include sc(30px,#443fff)
+}
